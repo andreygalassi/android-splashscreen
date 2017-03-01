@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="cursos">
+        <item>@string/combo_Java</item>
+        <item>@string/combo_IOS</item>
+        <item>@string/combo_Android</item>
+        <item>@string/combo_IOT</item>
+    </string-array>
+</resources>

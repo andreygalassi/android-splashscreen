@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Aula02</string>
+    <string name="versao">Versão 1.0</string>
+    <string name="lbnome">nome</string>
+    <string name="informe_seu_nome">informe seu nome</string>
+    <string name="label_curso">Curso</string>
+    <string name="lb_periodo">periodo curso</string>
+    <string name="combo_Java">Curso de Java</string>
+    <string name="combo_IOS">Curso de IOS</string>
+    <string name="combo_Android">Curso de Android</string>
+    <string name="combo_IOT">Curso de IOT</string>
+    <string name="bt_participar">Participar</string>
+    <string name="lb_manha">Manha</string>
+    <string name="lb_noite">Noite</string>
+    <string name="selecione">Selecione</string>
+
+    <string name="confirmacao">
+        <![CDATA[O sr(a) <strong>%1$s</strong> esta participando
+        do curso <strong>%2$s</strong> no período da <strong>%3$s</strong>]]>
+    </string>
+
+</resources>
